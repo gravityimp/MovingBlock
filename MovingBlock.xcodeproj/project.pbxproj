@@ -13,6 +13,7 @@
 		3FE9AAFF2B28B48900E17C4B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FE9AAFE2B28B48900E17C4B /* Preview Assets.xcassets */; };
 		3FE9AB062B28B4EC00E17C4B /* Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE9AB052B28B4EC00E17C4B /* Block.swift */; };
 		3FE9AB082B28B93B00E17C4B /* MovingBlockModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE9AB072B28B93B00E17C4B /* MovingBlockModel.swift */; };
+		3FF5E3162B31FCFB003789AE /* Account.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF5E3152B31FCFB003789AE /* Account.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		3FE9AAFE2B28B48900E17C4B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3FE9AB052B28B4EC00E17C4B /* Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Block.swift; sourceTree = "<group>"; };
 		3FE9AB072B28B93B00E17C4B /* MovingBlockModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovingBlockModel.swift; sourceTree = "<group>"; };
+		3FF5E3152B31FCFB003789AE /* Account.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Account.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			children = (
 				3FE9AAF72B28B48800E17C4B /* MovingBlockApp.swift */,
 				3FE9AAF92B28B48800E17C4B /* ContentView.swift */,
+				3FF5E3152B31FCFB003789AE /* Account.swift */,
 				3FE9AAFB2B28B48900E17C4B /* Assets.xcassets */,
 				3FE9AAFD2B28B48900E17C4B /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FF5E3162B31FCFB003789AE /* Account.swift in Sources */,
 				3FE9AB062B28B4EC00E17C4B /* Block.swift in Sources */,
 				3FE9AB082B28B93B00E17C4B /* MovingBlockModel.swift in Sources */,
 				3FE9AAFA2B28B48800E17C4B /* ContentView.swift in Sources */,
